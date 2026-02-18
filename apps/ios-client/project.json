@@ -1,0 +1,8 @@
+{
+  "name": "Sharkord",
+  "identifier": "com.sharkord.ios",
+  "version": "1.0.0",
+  "platform": "iOS",
+  "minimumOSVersion": "15.0",
+  "deploymentTarget": "15.0"
+}
